@@ -27,3 +27,7 @@ This project can be run from a web browser or the Expo client app. You may find 
 
 - Run `yarn eject` to create the native projects.
 - You can still run your project in the web browser or Expo client, you just won't be able to access any new native modules you add.
+
+## Project URL
+
+[BonAppetit App link for Android](https://expo.dev/@/projects/delivery-price)
